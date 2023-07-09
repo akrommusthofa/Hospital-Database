@@ -1,0 +1,28 @@
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\Harapan Sehat.exe
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\Harapan Sehat.deps.json
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\Harapan Sehat.runtimeconfig.json
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\Harapan Sehat.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\Harapan Sehat.pdb
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\MySqlConnector.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.csproj.AssemblyReference.cache
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan_Sehat.Form1.resources
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan_Sehat.Form2.resources
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan_Sehat.Form3.resources
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan_Sehat.Form4.resources
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.csproj.GenerateResource.cache
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.AssemblyInfoInputs.cache
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.AssemblyInfo.cs
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.csproj.CoreCompileInputs.cache
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.csproj.CopyComplete
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\refint\Harapan Sehat.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.pdb
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\Harapan Sehat.genruntimeconfig.cache
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\obj\Debug\net6.0-windows\ref\Harapan Sehat.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\ClosedXML.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\DocumentFormat.OpenXml.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\ExcelNumberFormat.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\Irony.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\SixLabors.Fonts.dll
+D:\Kuliah\Pemrograman Basis Data\Praktikum 11\harapan sehat\bin\Debug\net6.0-windows\XLParser.dll
